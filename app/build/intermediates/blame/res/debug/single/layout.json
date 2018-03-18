@@ -1,67 +1,39 @@
 [
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/res/layout/activity_main.xml"
-    },
-    {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/tooltip.xml",
         "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/tooltip.xml"
-    },
-    {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
-        "source": "/home/aleksei/.android/build-cache/2435e32db898804938b79dcba08a36a28897bf6b/output/res/layout/notification_template_icon_group.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
         "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_search_view.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/home/aleksei/.android/build-cache/2435e32db898804938b79dcba08a36a28897bf6b/output/res/layout/notification_template_part_time.xml"
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/select_dialog_multichoice_material.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
         "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
-        "source": "/home/aleksei/.android/build-cache/1faacaf17e1297f20bc21a2a0c82274aac8176aa/output/res/layout/notification_template_big_media_custom.xml"
-    },
-    {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/home/aleksei/.android/build-cache/1faacaf17e1297f20bc21a2a0c82274aac8176aa/output/res/layout/notification_template_media.xml"
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
         "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_screen_toolbar.xml"
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_list_menu_item_icon.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
         "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/serjardovic/.android/build-cache/13db366dd6173080b238da0771f713d5ec286452/output/res/layout/notification_template_part_time.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
@@ -80,24 +52,32 @@
         "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
-        "source": "/home/aleksei/.android/build-cache/1faacaf17e1297f20bc21a2a0c82274aac8176aa/output/res/layout/notification_template_big_media_narrow_custom.xml"
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/home/aleksei/.android/build-cache/2435e32db898804938b79dcba08a36a28897bf6b/output/res/layout/notification_template_part_chronometer.xml"
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/tooltip.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_search_view.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
         "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_dialog_title_material.xml"
     },
     {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
         "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
@@ -108,20 +88,20 @@
         "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/home/aleksei/.android/build-cache/1faacaf17e1297f20bc21a2a0c82274aac8176aa/output/res/layout/notification_template_big_media_narrow.xml"
-    },
-    {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
         "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
         "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_action_menu_item_layout.xml"
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_select_dialog_material.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
@@ -136,16 +116,8 @@
         "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_screen_simple.xml"
-    },
-    {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
-        "source": "/home/aleksei/.android/build-cache/1faacaf17e1297f20bc21a2a0c82274aac8176aa/output/res/layout/notification_template_big_media.xml"
-    },
-    {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_activity_chooser_view.xml"
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/serjardovic/.android/build-cache/13db366dd6173080b238da0771f713d5ec286452/output/res/layout/notification_action.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
@@ -156,24 +128,32 @@
         "source": "/home/aleksei/.android/build-cache/1faacaf17e1297f20bc21a2a0c82274aac8176aa/output/res/layout/notification_media_cancel_action.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/select_dialog_item_material.xml"
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/serjardovic/.android/build-cache/5203155c37008d0283ba3832d3a79249cefd8cd8/output/res/layout/notification_template_lines_media.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
         "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_action_bar_title_item.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
         "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_screen_content_include.xml"
     },
     {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
         "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
@@ -184,11 +164,223 @@
         "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
-        "source": "/home/aleksei/.android/build-cache/2435e32db898804938b79dcba08a36a28897bf6b/output/res/layout/notification_action_tombstone.xml"
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/serjardovic/.android/build-cache/5203155c37008d0283ba3832d3a79249cefd8cd8/output/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/serjardovic/.android/build-cache/5203155c37008d0283ba3832d3a79249cefd8cd8/output/res/layout/notification_template_big_media_custom.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
         "source": "/home/aleksei/.android/build-cache/2435e32db898804938b79dcba08a36a28897bf6b/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/aleksei/.android/build-cache/2435e32db898804938b79dcba08a36a28897bf6b/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/aleksei/.android/build-cache/2435e32db898804938b79dcba08a36a28897bf6b/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/home/aleksei/.android/build-cache/1faacaf17e1297f20bc21a2a0c82274aac8176aa/output/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/aleksei/.android/build-cache/1faacaf17e1297f20bc21a2a0c82274aac8176aa/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/serjardovic/.android/build-cache/13db366dd6173080b238da0771f713d5ec286452/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/serjardovic/.android/build-cache/13db366dd6173080b238da0771f713d5ec286452/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/serjardovic/.android/build-cache/5203155c37008d0283ba3832d3a79249cefd8cd8/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/aleksei/.android/build-cache/1faacaf17e1297f20bc21a2a0c82274aac8176aa/output/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/aleksei/.android/build-cache/2435e32db898804938b79dcba08a36a28897bf6b/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/serjardovic/.android/build-cache/5203155c37008d0283ba3832d3a79249cefd8cd8/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/aleksei/.android/build-cache/1faacaf17e1297f20bc21a2a0c82274aac8176aa/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/serjardovic/.android/build-cache/5203155c37008d0283ba3832d3a79249cefd8cd8/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/serjardovic/.android/build-cache/5203155c37008d0283ba3832d3a79249cefd8cd8/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/serjardovic/.android/build-cache/13db366dd6173080b238da0771f713d5ec286452/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/serjardovic/.android/build-cache/5203155c37008d0283ba3832d3a79249cefd8cd8/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/aleksei/.android/build-cache/1faacaf17e1297f20bc21a2a0c82274aac8176aa/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/serjardovic/.android/build-cache/5203155c37008d0283ba3832d3a79249cefd8cd8/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/serjardovic/.android/build-cache/13db366dd6173080b238da0771f713d5ec286452/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/aleksei/.android/build-cache/2435e32db898804938b79dcba08a36a28897bf6b/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/layout/abc_popup_menu_item_layout.xml"
     }
 ]

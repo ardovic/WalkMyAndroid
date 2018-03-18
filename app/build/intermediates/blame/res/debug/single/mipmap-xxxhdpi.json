@@ -6,5 +6,13 @@
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
         "source": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     }
 ]

@@ -1,95 +1,95 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:1-36:12
+ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:1-36:12
 	package
-		ADDED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml:17:5-48
-		INJECTED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml
-		INJECTED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:17:5-48
+		INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml
-		INJECTED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:11-69
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:11-69
 	android:versionCode
-		INJECTED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml
-		INJECTED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml:19:5-34:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] /home/aleksei/.android/build-cache/3bc01d71d170ed110c44546647b151686629b1b3/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/aleksei/.android/build-cache/1faacaf17e1297f20bc21a2a0c82274aac8176aa/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /home/aleksei/.android/build-cache/0978bfa2b752bb16c505ae6de6bf3e97ef0cf908/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/aleksei/.android/build-cache/3c3a30043ad952fe50e84f783fb02c5e53091ab6/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/aleksei/.android/build-cache/cb8605b5a356c885757a4ff5aeecad557d8f0485/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/aleksei/.android/build-cache/a8264010548df298e0ec6c581c1cdbba6c1603ad/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/aleksei/.android/build-cache/61bb69b0d85192df1b9cecd90510e0d6bb8652bf/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /home/aleksei/.android/build-cache/2435e32db898804938b79dcba08a36a28897bf6b/output/AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/aleksei/.android/build-cache/0c588a94b47c6b7a979a012e6bad308026bb8090/output/AndroidManifest.xml:24:5-28:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/aleksei/.android/build-cache/7d9ab32499a1ffce80cc6b1acae1ef88bafe5dde/output/AndroidManifest.xml:9:5-20
+ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:19:5-34:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/serjardovic/.android/build-cache/425838b7e79bae57054108d4db6e327edefaa9ae/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/serjardovic/.android/build-cache/5203155c37008d0283ba3832d3a79249cefd8cd8/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/serjardovic/.android/build-cache/23f38779dbad5c71b7764d90394b6eee99b0dec9/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/serjardovic/.android/build-cache/fbd2b4858b69c7654050351a0706f5706b18757a/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/serjardovic/.android/build-cache/305fdab011b8010a93c3188ffe9fec065b54f27f/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/serjardovic/.android/build-cache/6c0eee91665b17adffa3a400dafb02408ae6e343/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/serjardovic/.android/build-cache/faadfb13309d753fc8b66d41cdf5244d99a8ff1e/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/serjardovic/.android/build-cache/13db366dd6173080b238da0771f713d5ec286452/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/serjardovic/.android/build-cache/947779a83dae599fdfc26e37245afca48e1ee098/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/serjardovic/.android/build-cache/7d09be2d4ffca96eca179a3804f9818c972f0ecf/output/AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml:22:9-41
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:22:9-41
 	android:supportsRtl
-		ADDED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml:24:9-35
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:24:9-35
 	android:roundIcon
-		ADDED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml:23:9-54
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:23:9-54
 	android:allowBackup
-		ADDED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml:20:9-35
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:20:9-35
 	android:icon
-		ADDED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml:21:9-43
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:21:9-43
 	android:theme
-		ADDED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml:25:9-40
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:25:9-40
 activity#com.example.android.walkmyandroid.MainActivity
-ADDED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml:26:9-32:20
+ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:26:9-32:20
 	android:name
-		ADDED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml:26:19-47
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:26:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml:27:13-31:29
+ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:27:13-31:29
 action#android.intent.action.MAIN
-ADDED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml:28:17-69
+ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml:28:25-66
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml:30:17-77
+ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml:30:27-74
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:30:27-74
 uses-sdk
-INJECTED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:26.1.0] /home/aleksei/.android/build-cache/3bc01d71d170ed110c44546647b151686629b1b3/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/aleksei/.android/build-cache/1faacaf17e1297f20bc21a2a0c82274aac8176aa/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] /home/aleksei/.android/build-cache/0978bfa2b752bb16c505ae6de6bf3e97ef0cf908/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/aleksei/.android/build-cache/3c3a30043ad952fe50e84f783fb02c5e53091ab6/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/aleksei/.android/build-cache/cb8605b5a356c885757a4ff5aeecad557d8f0485/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/aleksei/.android/build-cache/a8264010548df298e0ec6c581c1cdbba6c1603ad/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/aleksei/.android/build-cache/61bb69b0d85192df1b9cecd90510e0d6bb8652bf/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /home/aleksei/.android/build-cache/2435e32db898804938b79dcba08a36a28897bf6b/output/AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/aleksei/.android/build-cache/0c588a94b47c6b7a979a012e6bad308026bb8090/output/AndroidManifest.xml:20:5-22:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/aleksei/.android/build-cache/7d9ab32499a1ffce80cc6b1acae1ef88bafe5dde/output/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /Users/serjardovic/.android/build-cache/425838b7e79bae57054108d4db6e327edefaa9ae/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/serjardovic/.android/build-cache/5203155c37008d0283ba3832d3a79249cefd8cd8/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/serjardovic/.android/build-cache/23f38779dbad5c71b7764d90394b6eee99b0dec9/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/serjardovic/.android/build-cache/fbd2b4858b69c7654050351a0706f5706b18757a/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/serjardovic/.android/build-cache/305fdab011b8010a93c3188ffe9fec065b54f27f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/serjardovic/.android/build-cache/6c0eee91665b17adffa3a400dafb02408ae6e343/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/serjardovic/.android/build-cache/faadfb13309d753fc8b66d41cdf5244d99a8ff1e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/serjardovic/.android/build-cache/13db366dd6173080b238da0771f713d5ec286452/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/serjardovic/.android/build-cache/947779a83dae599fdfc26e37245afca48e1ee098/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/serjardovic/.android/build-cache/7d09be2d4ffca96eca179a3804f9818c972f0ecf/output/AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml
-		INJECTED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml
-		INJECTED from /home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.1.0] /home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] /home/aleksei/.android/build-cache/3bc01d71d170ed110c44546647b151686629b1b3/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/aleksei/.android/build-cache/1faacaf17e1297f20bc21a2a0c82274aac8176aa/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /home/aleksei/.android/build-cache/0978bfa2b752bb16c505ae6de6bf3e97ef0cf908/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/aleksei/.android/build-cache/3c3a30043ad952fe50e84f783fb02c5e53091ab6/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/aleksei/.android/build-cache/cb8605b5a356c885757a4ff5aeecad557d8f0485/output/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/aleksei/.android/build-cache/a8264010548df298e0ec6c581c1cdbba6c1603ad/output/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/aleksei/.android/build-cache/61bb69b0d85192df1b9cecd90510e0d6bb8652bf/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /home/aleksei/.android/build-cache/2435e32db898804938b79dcba08a36a28897bf6b/output/AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/serjardovic/.android/build-cache/425838b7e79bae57054108d4db6e327edefaa9ae/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/serjardovic/.android/build-cache/5203155c37008d0283ba3832d3a79249cefd8cd8/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/serjardovic/.android/build-cache/23f38779dbad5c71b7764d90394b6eee99b0dec9/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/serjardovic/.android/build-cache/fbd2b4858b69c7654050351a0706f5706b18757a/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/serjardovic/.android/build-cache/305fdab011b8010a93c3188ffe9fec065b54f27f/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/serjardovic/.android/build-cache/6c0eee91665b17adffa3a400dafb02408ae6e343/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/serjardovic/.android/build-cache/faadfb13309d753fc8b66d41cdf5244d99a8ff1e/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/serjardovic/.android/build-cache/13db366dd6173080b238da0771f713d5ec286452/output/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/AndroidManifest.xml:27:13-51
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/aleksei/.android/build-cache/0c588a94b47c6b7a979a012e6bad308026bb8090/output/AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/serjardovic/.android/build-cache/947779a83dae599fdfc26e37245afca48e1ee098/output/AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/aleksei/.android/build-cache/0c588a94b47c6b7a979a012e6bad308026bb8090/output/AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/serjardovic/.android/build-cache/947779a83dae599fdfc26e37245afca48e1ee098/output/AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/aleksei/.android/build-cache/0c588a94b47c6b7a979a012e6bad308026bb8090/output/AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/serjardovic/.android/build-cache/947779a83dae599fdfc26e37245afca48e1ee098/output/AndroidManifest.xml:26:13-58

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/animator/rotate.xml",
+        "source": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/res/animator/rotate.xml"
+    },
+    {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/animator/rotate.xml",
         "source": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/src/main/res/animator/rotate.xml"
     }

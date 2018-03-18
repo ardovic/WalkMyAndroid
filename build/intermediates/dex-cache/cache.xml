@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/serjardovic/.android/build-cache/23f38779dbad5c71b7764d90394b6eee99b0dec9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/pre-dexed/debug/classes_0b599cbb927784554fde1adbbbdfa5ded1c06499.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/serjardovic/.android/build-cache/6c0eee91665b17adffa3a400dafb02408ae6e343/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/pre-dexed/debug/classes_15ade9af9db4aeaba2b10f6abd299b75b4e9e815.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/serjardovic/.android/build-cache/13db366dd6173080b238da0771f713d5ec286452/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/pre-dexed/debug/classes_91728e8c7b0bc001857c468d7cea55cc9eb7daf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/serjardovic/.android/build-cache/947779a83dae599fdfc26e37245afca48e1ee098/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/pre-dexed/debug/classes_6bbf9068869bd07dea8c5b6e8b51a6e63b287648.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/serjardovic/.android/build-cache/305fdab011b8010a93c3188ffe9fec065b54f27f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/pre-dexed/debug/classes_2b9084a37553da1fb619bface2592229e4e588d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/serjardovic/.android/build-cache/fbd2b4858b69c7654050351a0706f5706b18757a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/pre-dexed/debug/classes_75be5004d7b6932824504275a6f57b09d7cfa372.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/pre-dexed/debug/classes_e5de63bdd8e2d0b2de13025bd48d3fcc115a503b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/serjardovic/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_c85d799ec5eca98cca273554e5f557477f15547e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/serjardovic/.android/build-cache/425838b7e79bae57054108d4db6e327edefaa9ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/pre-dexed/debug/classes_59bccd97165cbe8cc5ae7ae9f41adaac33bcb05c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/serjardovic/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/pre-dexed/debug/common-1.0.0_03db732b2bd8e084e770b6b66b06100f60f3b21e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/serjardovic/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/pre-dexed/debug/common-1.0.0_44488947e6af00065204351100f3fdc3bae923a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/serjardovic/.android/build-cache/faadfb13309d753fc8b66d41cdf5244d99a8ff1e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/pre-dexed/debug/classes_712a574f6b1813d321fcf48697ba03f6eb5359ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/serjardovic/.android/build-cache/5203155c37008d0283ba3832d3a79249cefd8cd8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/pre-dexed/debug/classes_d2fae93b28d2b925184809d3a6d2a260c616e290.jar" />
+    </item>
+
+</items>

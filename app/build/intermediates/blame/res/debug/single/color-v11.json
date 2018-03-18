@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
         "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",

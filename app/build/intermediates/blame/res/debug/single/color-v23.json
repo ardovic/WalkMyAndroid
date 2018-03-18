@@ -4,16 +4,48 @@
         "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
         "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/color-v23/abc_tint_default.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
         "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
         "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
@@ -30,6 +62,10 @@
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
         "source": "/home/aleksei/.android/build-cache/2b22e59b0f9ebebfd5e5c9fdf4e0475bc050c047/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",

@@ -2780,12 +2780,17 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with=0x7f070010;
         public static final int abc_shareactionprovider_share_with_application=0x7f070011;
         public static final int abc_toolbar_collapse_description=0x7f070012;
-        public static final int android_image=0x7f070021;
-        public static final int app_name=0x7f070022;
-        public static final int get_location=0x7f070023;
+        public static final int address_text=0x7f070021;
+        public static final int android_image=0x7f070022;
+        public static final int app_name=0x7f070023;
+        public static final int get_location=0x7f070024;
+        public static final int location_text=0x7f070025;
+        public static final int no_address_found=0x7f070026;
         public static final int search_menu_title=0x7f070013;
+        public static final int service_not_available=0x7f070027;
+        public static final int start_tracking_location=0x7f070028;
         public static final int status_bar_notification_info_overflow=0x7f070014;
-        public static final int textview_hint=0x7f070024;
+        public static final int textview_hint=0x7f070029;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f0900a7;

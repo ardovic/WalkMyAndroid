@@ -8,11 +8,27 @@
         "source": "/home/aleksei/.android/build-cache/2435e32db898804938b79dcba08a36a28897bf6b/output/res/layout-v21/notification_action_tombstone.xml"
     },
     {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/serjardovic/.android/build-cache/13db366dd6173080b238da0771f713d5ec286452/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
         "source": "/home/aleksei/.android/build-cache/2435e32db898804938b79dcba08a36a28897bf6b/output/res/layout-v21/notification_template_icon_group.xml"
     },
     {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/serjardovic/.android/build-cache/13db366dd6173080b238da0771f713d5ec286452/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/serjardovic/.android/build-cache/13db366dd6173080b238da0771f713d5ec286452/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
         "source": "/home/aleksei/.android/build-cache/2435e32db898804938b79dcba08a36a28897bf6b/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/serjardovic/.android/build-cache/13db366dd6173080b238da0771f713d5ec286452/output/res/layout-v21/notification_action.xml"
     }
 ]
