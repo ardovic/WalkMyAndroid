@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/aleksei/.android/build-cache/2435e32db898804938b79dcba08a36a28897bf6b/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/aleksei/.android/build-cache/2435e32db898804938b79dcba08a36a28897bf6b/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/aleksei/.android/build-cache/2435e32db898804938b79dcba08a36a28897bf6b/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/aleksei/google schoolarship/advance/lesson 3/new/WalkMyAndroid/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/aleksei/.android/build-cache/2435e32db898804938b79dcba08a36a28897bf6b/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
