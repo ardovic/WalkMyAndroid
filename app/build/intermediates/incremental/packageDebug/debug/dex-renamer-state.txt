@@ -1,0 +1,4 @@
+#Tue Mar 20 15:01:57 EET 2018
+base.0=/Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

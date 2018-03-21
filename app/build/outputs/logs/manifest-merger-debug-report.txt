@@ -1,95 +1,219 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:1-36:12
+ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b7090befc22328a85de330a22b19e203/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b46c307ee34944da614d8a4f977f99c7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/1c3480d1bd042eeca4edc543aca35905/AndroidManifest.xml:2:1-9:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/cb9635735e3ee63d31001c94e7bf0851/AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/6ed429948d604857304c89abd9a2c933/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/806b9696ac9547c55d067e0c10b50873/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d65ea09a6d64a67dcb63e1d90f2f8f80/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/3f8d32bae8c5aca951cf26c504835382/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/2b1199b81ce6457b45dbfd77639639ff/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a64550aa4c90bd18f21c58d0b50ad08e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/452513b65f09e9799db3b56b2c593312/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/11b40060645a9d2a2c5d8f9bb6da909f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d700e602a3bac35c21a42ed0b9c88860/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c95578cba0e083614be7f94e07eb7183/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7b07131c81b800f24a9186296fdb0cf/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/b804af417f1f4de45e74cb41e07c92d9/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/0a8f927858f3565a79df3ba8d6743687/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/be53d48266868c6288f2eefa8bd24ec9/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/ce7a4bf6af45e434e6473aec73e4c711/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b119389a6aa90f37443d65cb809af827/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:17:5-48
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:3:5-48
 		INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:2:1-26:12
 		INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
-	xmlns:android
-		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:11-69
 	android:versionCode
 		INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:2:1-26:12
 		INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:7:22-64
 application
-ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:19:5-34:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] /Users/serjardovic/.android/build-cache/425838b7e79bae57054108d4db6e327edefaa9ae/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/serjardovic/.android/build-cache/5203155c37008d0283ba3832d3a79249cefd8cd8/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/serjardovic/.android/build-cache/23f38779dbad5c71b7764d90394b6eee99b0dec9/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/serjardovic/.android/build-cache/fbd2b4858b69c7654050351a0706f5706b18757a/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/serjardovic/.android/build-cache/305fdab011b8010a93c3188ffe9fec065b54f27f/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/serjardovic/.android/build-cache/6c0eee91665b17adffa3a400dafb02408ae6e343/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/serjardovic/.android/build-cache/faadfb13309d753fc8b66d41cdf5244d99a8ff1e/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /Users/serjardovic/.android/build-cache/13db366dd6173080b238da0771f713d5ec286452/output/AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/serjardovic/.android/build-cache/947779a83dae599fdfc26e37245afca48e1ee098/output/AndroidManifest.xml:24:5-28:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/serjardovic/.android/build-cache/7d09be2d4ffca96eca179a3804f9818c972f0ecf/output/AndroidManifest.xml:9:5-20
-	android:label
-		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:22:9-41
+ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:9:5-24:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b7090befc22328a85de330a22b19e203/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b7090befc22328a85de330a22b19e203/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b46c307ee34944da614d8a4f977f99c7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b46c307ee34944da614d8a4f977f99c7/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/1c3480d1bd042eeca4edc543aca35905/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/1c3480d1bd042eeca4edc543aca35905/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/6ed429948d604857304c89abd9a2c933/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/6ed429948d604857304c89abd9a2c933/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/806b9696ac9547c55d067e0c10b50873/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/806b9696ac9547c55d067e0c10b50873/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d65ea09a6d64a67dcb63e1d90f2f8f80/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d65ea09a6d64a67dcb63e1d90f2f8f80/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/3f8d32bae8c5aca951cf26c504835382/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/3f8d32bae8c5aca951cf26c504835382/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/2b1199b81ce6457b45dbfd77639639ff/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/2b1199b81ce6457b45dbfd77639639ff/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a64550aa4c90bd18f21c58d0b50ad08e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a64550aa4c90bd18f21c58d0b50ad08e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/452513b65f09e9799db3b56b2c593312/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/452513b65f09e9799db3b56b2c593312/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/11b40060645a9d2a2c5d8f9bb6da909f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/11b40060645a9d2a2c5d8f9bb6da909f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d700e602a3bac35c21a42ed0b9c88860/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d700e602a3bac35c21a42ed0b9c88860/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c95578cba0e083614be7f94e07eb7183/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c95578cba0e083614be7f94e07eb7183/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7b07131c81b800f24a9186296fdb0cf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7b07131c81b800f24a9186296fdb0cf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/b804af417f1f4de45e74cb41e07c92d9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/b804af417f1f4de45e74cb41e07c92d9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/0a8f927858f3565a79df3ba8d6743687/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/0a8f927858f3565a79df3ba8d6743687/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/be53d48266868c6288f2eefa8bd24ec9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/be53d48266868c6288f2eefa8bd24ec9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/ce7a4bf6af45e434e6473aec73e4c711/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/ce7a4bf6af45e434e6473aec73e4c711/AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b119389a6aa90f37443d65cb809af827/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b119389a6aa90f37443d65cb809af827/AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:24:9-35
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:12:9-41
 	android:roundIcon
-		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:23:9-54
-	android:allowBackup
-		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:20:9-35
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:13:9-54
 	android:icon
-		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:21:9-43
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:25:9-40
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:15:9-40
 activity#com.example.android.walkmyandroid.MainActivity
-ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:26:9-32:20
+ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:9-22:20
 	android:name
-		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:26:19-47
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:27:13-31:29
+ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:28:17-69
+ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:28:25-66
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:30:17-77
+ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:30:27-74
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml:20:27-74
 uses-sdk
 INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:26.1.0] /Users/serjardovic/.android/build-cache/425838b7e79bae57054108d4db6e327edefaa9ae/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/serjardovic/.android/build-cache/5203155c37008d0283ba3832d3a79249cefd8cd8/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/serjardovic/.android/build-cache/23f38779dbad5c71b7764d90394b6eee99b0dec9/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/serjardovic/.android/build-cache/fbd2b4858b69c7654050351a0706f5706b18757a/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/serjardovic/.android/build-cache/305fdab011b8010a93c3188ffe9fec065b54f27f/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/serjardovic/.android/build-cache/6c0eee91665b17adffa3a400dafb02408ae6e343/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/serjardovic/.android/build-cache/faadfb13309d753fc8b66d41cdf5244d99a8ff1e/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /Users/serjardovic/.android/build-cache/13db366dd6173080b238da0771f713d5ec286452/output/AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/serjardovic/.android/build-cache/947779a83dae599fdfc26e37245afca48e1ee098/output/AndroidManifest.xml:20:5-22:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/serjardovic/.android/build-cache/7d09be2d4ffca96eca179a3804f9818c972f0ecf/output/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b7090befc22328a85de330a22b19e203/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b7090befc22328a85de330a22b19e203/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b46c307ee34944da614d8a4f977f99c7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b46c307ee34944da614d8a4f977f99c7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/1c3480d1bd042eeca4edc543aca35905/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/1c3480d1bd042eeca4edc543aca35905/AndroidManifest.xml:5:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/cb9635735e3ee63d31001c94e7bf0851/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/cb9635735e3ee63d31001c94e7bf0851/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/6ed429948d604857304c89abd9a2c933/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/6ed429948d604857304c89abd9a2c933/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/806b9696ac9547c55d067e0c10b50873/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/806b9696ac9547c55d067e0c10b50873/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d65ea09a6d64a67dcb63e1d90f2f8f80/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d65ea09a6d64a67dcb63e1d90f2f8f80/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/3f8d32bae8c5aca951cf26c504835382/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/3f8d32bae8c5aca951cf26c504835382/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/2b1199b81ce6457b45dbfd77639639ff/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/2b1199b81ce6457b45dbfd77639639ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a64550aa4c90bd18f21c58d0b50ad08e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a64550aa4c90bd18f21c58d0b50ad08e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/452513b65f09e9799db3b56b2c593312/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/452513b65f09e9799db3b56b2c593312/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/11b40060645a9d2a2c5d8f9bb6da909f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/11b40060645a9d2a2c5d8f9bb6da909f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d700e602a3bac35c21a42ed0b9c88860/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d700e602a3bac35c21a42ed0b9c88860/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c95578cba0e083614be7f94e07eb7183/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c95578cba0e083614be7f94e07eb7183/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7b07131c81b800f24a9186296fdb0cf/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7b07131c81b800f24a9186296fdb0cf/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/b804af417f1f4de45e74cb41e07c92d9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/b804af417f1f4de45e74cb41e07c92d9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/0a8f927858f3565a79df3ba8d6743687/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/0a8f927858f3565a79df3ba8d6743687/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/be53d48266868c6288f2eefa8bd24ec9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/be53d48266868c6288f2eefa8bd24ec9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/ce7a4bf6af45e434e6473aec73e4c711/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/ce7a4bf6af45e434e6473aec73e4c711/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b119389a6aa90f37443d65cb809af827/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b119389a6aa90f37443d65cb809af827/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b7090befc22328a85de330a22b19e203/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/serjardovic/Documents/GDG2018/WalkMyAndroid/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] /Users/serjardovic/.android/build-cache/425838b7e79bae57054108d4db6e327edefaa9ae/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/serjardovic/.android/build-cache/5203155c37008d0283ba3832d3a79249cefd8cd8/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/serjardovic/.android/build-cache/23f38779dbad5c71b7764d90394b6eee99b0dec9/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/serjardovic/.android/build-cache/fbd2b4858b69c7654050351a0706f5706b18757a/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/serjardovic/.android/build-cache/305fdab011b8010a93c3188ffe9fec065b54f27f/output/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/serjardovic/.android/build-cache/6c0eee91665b17adffa3a400dafb02408ae6e343/output/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/serjardovic/.android/build-cache/faadfb13309d753fc8b66d41cdf5244d99a8ff1e/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /Users/serjardovic/.android/build-cache/13db366dd6173080b238da0771f713d5ec286452/output/AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b7090befc22328a85de330a22b19e203/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/6ed429948d604857304c89abd9a2c933/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/6ed429948d604857304c89abd9a2c933/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/806b9696ac9547c55d067e0c10b50873/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/806b9696ac9547c55d067e0c10b50873/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a64550aa4c90bd18f21c58d0b50ad08e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a64550aa4c90bd18f21c58d0b50ad08e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/452513b65f09e9799db3b56b2c593312/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/452513b65f09e9799db3b56b2c593312/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/11b40060645a9d2a2c5d8f9bb6da909f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/11b40060645a9d2a2c5d8f9bb6da909f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d700e602a3bac35c21a42ed0b9c88860/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d700e602a3bac35c21a42ed0b9c88860/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c95578cba0e083614be7f94e07eb7183/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c95578cba0e083614be7f94e07eb7183/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7b07131c81b800f24a9186296fdb0cf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7b07131c81b800f24a9186296fdb0cf/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b7090befc22328a85de330a22b19e203/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/serjardovic/.android/build-cache/deccd16c422c18ca5bded2c672bfe2c11d146f38/output/AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b7090befc22328a85de330a22b19e203/AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d65ea09a6d64a67dcb63e1d90f2f8f80/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d65ea09a6d64a67dcb63e1d90f2f8f80/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d65ea09a6d64a67dcb63e1d90f2f8f80/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/d65ea09a6d64a67dcb63e1d90f2f8f80/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/2b1199b81ce6457b45dbfd77639639ff/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/2b1199b81ce6457b45dbfd77639639ff/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/2b1199b81ce6457b45dbfd77639639ff/AndroidManifest.xml:24:13-58
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/serjardovic/.android/build-cache/947779a83dae599fdfc26e37245afca48e1ee098/output/AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b119389a6aa90f37443d65cb809af827/AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/serjardovic/.android/build-cache/947779a83dae599fdfc26e37245afca48e1ee098/output/AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b119389a6aa90f37443d65cb809af827/AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/serjardovic/.android/build-cache/947779a83dae599fdfc26e37245afca48e1ee098/output/AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/serjardovic/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b119389a6aa90f37443d65cb809af827/AndroidManifest.xml:26:13-58
